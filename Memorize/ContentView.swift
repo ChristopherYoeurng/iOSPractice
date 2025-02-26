@@ -35,6 +35,8 @@ struct ContentView: View {
         HStack {
             cardCountAdjuster(by: -1, symbol: "minus.square.fill")
             Spacer()
+            cardCountAdjuster(by: -cardCount, symbol: "clear.fill")
+            Spacer()
             cardCountAdjuster(by: 1, symbol: "plus.square.fill.on.square.fill")
         }
         .imageScale(.large)

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bk_001",
+    "title": "The SwiftUI Way",
+    "author": "A. Dev",
+    "rating": 4.5,
+    "thumbnailURL": "https://picsum.photos/seed/swiftui/100/150",
+    "coverURL": "https://picsum.photos/seed/swiftui/400/600",
+    "description": "A practical path into SwiftUI and modern iOS app design.",
+    "previewURL": "https://example.com/swiftui-way"
+  },
+  {
+    "id": "bk_002",
+    "title": "Async/Await in Practice",
+    "author": "C. Concurrency",
+    "rating": 4.0,
+    "thumbnailURL": "https://picsum.photos/seed/async/100/150",
+    "coverURL": "https://picsum.photos/seed/async/400/600",
+    "description": "Make networking code readable, testable, and robust.",
+    "previewURL": null
+  }
+]
